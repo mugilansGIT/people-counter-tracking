@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.py[cod]
+
+/input/*
+!/input/.gitkeep
+!/input/cctv_video.mp4
+/models/*.pt
+/models/*.pth
+!/models/.gitkeep
+!/models/osnet_ain_x1_0_msmt17.pth
+!/models/yolov8x.pt
+
+/outputs/*
+!/outputs/.gitkeep

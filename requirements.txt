@@ -1,0 +1,5 @@
+opencv-python
+numpy
+deep-sort-realtime
+ultralytics
+torchreid
