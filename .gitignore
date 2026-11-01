@@ -13,3 +13,5 @@ __pycache__/
 
 /outputs/*
 !/outputs/.gitkeep
+!/outputs/output_boundary_exclusion.mp4
+!/outputs/output_boundary_exclusion.csv
